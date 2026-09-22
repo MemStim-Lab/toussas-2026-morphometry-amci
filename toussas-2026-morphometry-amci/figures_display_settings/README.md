@@ -1,0 +1,1 @@
+Screenshots of the CAT12 `cat_surf_results` display settings used to render Supplementary Figure S2 panels C and D (overlay range C: 1.30–2.04; D: 3.92–7.86, i.e. FWE-corrected p 0.05–0.01 and 10⁻⁴–10⁻⁸; jet colour map, white background).
